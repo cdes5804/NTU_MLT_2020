@@ -1,0 +1,22 @@
+One should be able to execute the program with the following command:
+
+```
+python3 autoencoder.py
+
+```
+
+The program will plot the graphs for problem 11 to problem 16 sequentially. So it's all in one.
+
+The program is written with the following environment and packages:
+
+python 3.8.2
+
+pytorch 1.5.0
+
+numpy 1.18.4
+
+matplotlib 3.2.1
+
+sklearn 0.23.0
+
+Please also make sure that GPU is available.
